@@ -8,7 +8,7 @@
 ```bash
 cd src/main/java
 javac $(find . -name "*.java")
-
+```
 ### Запуск
-```java -cp src/main/java com.example.restaurant.Main [waiters] [cooks] [clientIntervalMs] [runtimeSeconds]
+```java -cp src/main/java com.example.restaurant.Main [waiters] [cooks] [clientIntervalMs] [runtimeSeconds]```
 
